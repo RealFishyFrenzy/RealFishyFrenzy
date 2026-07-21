@@ -33,7 +33,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RealFishyFrenzy&show_icons=true&locale=en&layout=compact" alt="RealFishyFrenzy" /></p>
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealFishyFrenzy&layout=compact&theme=tokyonight"
+       alt="Top Languages" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RealFishyFrenzy&show_icons=true&locale=en" alt="RealFishyFrenzy" /></p>
 
