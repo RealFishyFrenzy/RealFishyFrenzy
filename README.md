@@ -1,48 +1,32 @@
 # Hi 👋, I'm Kevin
 
-### Software Engineer | Game Developer | AI Enthusiast
+### Software Developer | Game Developer
+
+I'm a developer focused on building software, games, and interactive systems. I enjoy working through technical problems, designing systems, and learning new technologies through hands-on projects.
 
 ## 🚀 Current Projects
 
-- 🌿 **Project Wildroot** — A cozy top-down animal collection and management game built with Unity.
-- 🤖 **FrenzyGPT** — A privacy-focused, multi-provider AI workspace.
+- 🌿 **Project WildRoot** — A top-down animal collection, management, farming, and exploration game built with Unity and C#.
+- 🤖 **FrenzyGPT** — A privacy-focused desktop AI workspace built around local and multi-provider model support.
 
-## 🌱 Currently Exploring
-
-- Software Architecture
-- AI
-- Game Development
-- Backend Development
-- Cloud Technologies
-
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://github.com/RealFishyFrenzy" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-         alt="RealFishyFrenzy"
-         height="30"
-         width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,java,linux,py,unity" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,java,linux,py,unity" alt="Languages and development tools" />
   <img src="https://cdn.simpleicons.org/ollama" width="48" height="48" alt="Ollama" />
 </p>
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=RealFishyFrenzy&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
+    alt="Kevin's GitHub statistics"
     height="170"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealFishyFrenzy&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    alt="Most used languages"
     height="170"
   />
 </p>
@@ -50,6 +34,6 @@
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=RealFishyFrenzy&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="GitHub contribution streak"
   />
 </p>
