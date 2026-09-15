@@ -7,7 +7,7 @@ I'm a developer focused on building software, games, and interactive systems. I 
 ## 🚀 Current Projects
 
 - 🌿 **Project WildRoot** — A top-down animal collection, management, farming, and exploration game built with Unity and C#.
-- 🤖 **FrenzyGPT** — A privacy-focused desktop AI workspace built around local and multi-provider model support.
+- 🐦 **Pigeon Model** — A from-scratch experimental language model built with Python and PyTorch, exploring Transformer architecture, causal language modeling, training, evaluation, and iterative model development.
 
 ## 🛠️ Languages & Tools
 
